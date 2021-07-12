@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string name="nombre">Nombre(s):</string>
+    <string name="apellido_paterno">Apellido Paterno:</string>
+    <string name="apellido_materno">Apellido Materno:</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mes</string>
+    <string name="a_o">Año</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
