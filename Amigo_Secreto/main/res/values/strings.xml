@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AmigoSecreto</string>
+    <string name="agregar">Agregar</string>
+    <string name="a">A:</string>
+    <string name="por">Por:</string>
+    <string name="nuevo_amigo">Nuevo Amigo</string>
+    <string name="seleccionar_amigo">Seleccionar amigo</string>
+</resources>
